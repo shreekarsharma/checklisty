@@ -28,13 +28,9 @@ CheckListy is a task management application built using HTML, JavaScript, and Ta
 * Applied event delegation to efficiently handle user interactions.
 * Built a responsive and user-friendly interface using Tailwind CSS.
 
-## Screenshots
-
-*Add project screenshots here.*
-
 ## Live Demo
 
-*Add deployment link here.*
+[*CheckListy*](https://shreekarsharma.github.io/checklisty/)
 
 ## Author
 
